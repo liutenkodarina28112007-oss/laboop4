@@ -1,0 +1,14 @@
+C:\Users\Asus\Downloads\variant3_oop (1)\variant3_oop\bin\Debug\net8.0\Variant3OOP.exe
+C:\Users\Asus\Downloads\variant3_oop (1)\variant3_oop\bin\Debug\net8.0\Variant3OOP.deps.json
+C:\Users\Asus\Downloads\variant3_oop (1)\variant3_oop\bin\Debug\net8.0\Variant3OOP.runtimeconfig.json
+C:\Users\Asus\Downloads\variant3_oop (1)\variant3_oop\bin\Debug\net8.0\Variant3OOP.dll
+C:\Users\Asus\Downloads\variant3_oop (1)\variant3_oop\bin\Debug\net8.0\Variant3OOP.pdb
+C:\Users\Asus\Downloads\variant3_oop (1)\variant3_oop\obj\Debug\net8.0\Variant3OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\variant3_oop (1)\variant3_oop\obj\Debug\net8.0\Variant3OOP.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\variant3_oop (1)\variant3_oop\obj\Debug\net8.0\Variant3OOP.AssemblyInfo.cs
+C:\Users\Asus\Downloads\variant3_oop (1)\variant3_oop\obj\Debug\net8.0\Variant3OOP.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\variant3_oop (1)\variant3_oop\obj\Debug\net8.0\Variant3OOP.dll
+C:\Users\Asus\Downloads\variant3_oop (1)\variant3_oop\obj\Debug\net8.0\refint\Variant3OOP.dll
+C:\Users\Asus\Downloads\variant3_oop (1)\variant3_oop\obj\Debug\net8.0\Variant3OOP.pdb
+C:\Users\Asus\Downloads\variant3_oop (1)\variant3_oop\obj\Debug\net8.0\Variant3OOP.genruntimeconfig.cache
+C:\Users\Asus\Downloads\variant3_oop (1)\variant3_oop\obj\Debug\net8.0\ref\Variant3OOP.dll
